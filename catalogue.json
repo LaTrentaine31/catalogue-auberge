@@ -1,0 +1,464 @@
+[
+  {
+    "id": "1",
+    "name": "Wlitw77",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmen847encgzr8cn0pvg20.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "2",
+    "name": "DF-Shock",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmfn9q2vsp0wdnkyvb5q6j.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "3",
+    "name": "Arlequin",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmhp43rtd8gs9za8wt6d1y.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "4",
+    "name": "Matpis",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmn37eagx5z85v522drw2z.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "5",
+    "name": "Deadpoule",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmqvn5a4j739s0t96far5g.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "6",
+    "name": "Le Symon",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmdbs4psfhpdcmmp6w1cmq.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "7",
+    "name": "Tormod",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmc904yv4mb9rv95812x18.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "8",
+    "name": "Mrmorse",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmbe485cwazf2jryz82v65.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "9",
+    "name": "Lonadont",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmwy1enckzf74dsf7kn8b0.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "10",
+    "name": "Absinte",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmxwyt95dqe2g2w4zkef29.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "11",
+    "name": "Aciz",
+    "image": "https://cdn.streamelements.com/uploads/01m6rmzeq3akbfzb0sezgeet07.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "12",
+    "name": "Pikendil",
+    "image": "https://cdn.streamelements.com/uploads/01m6rn0h40fweeh9e43pjr141r.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "13",
+    "name": "JordyBala",
+    "image": "https://cdn.streamelements.com/uploads/01m6tdzdsnwr12xhsyrdgwmqfy.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "14",
+    "name": "ProfH",
+    "image": "https://cdn.streamelements.com/uploads/01m6te0j0551mp8jakaf6kjb50.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "15",
+    "name": "Spellitos",
+    "image": "https://cdn.streamelements.com/uploads/01m6te1ashmak0dc3fgmr7zpvk.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "16",
+    "name": "Kaze",
+    "image": "https://cdn.streamelements.com/uploads/01m6te234py6vsxndpzdh8bcka.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "17",
+    "name": "RedPanda",
+    "image": "https://cdn.streamelements.com/uploads/01m6te5rr845sadezgjn25ky93.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "18",
+    "name": "Mortimerre",
+    "image": "https://cdn.streamelements.com/uploads/01m6v4pyczs40thekghn0agt52.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "19",
+    "name": "Pikenbsinte",
+    "image": "https://cdn.streamelements.com/uploads/01m6x6j08wj16n40a7qk2m0fs4.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "20",
+    "name": "La Trentaine",
+    "image": "https://cdn.streamelements.com/uploads/01m6x6nftyx9yds3a4d88x7daj.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "21",
+    "name": "Yova",
+    "image": "https://cdn.streamelements.com/uploads/01m6x6w7pfg427r4vjwsgn74dm.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "22",
+    "name": "Vica",
+    "image": "https://cdn.streamelements.com/uploads/01m705q51dfws5hvjpajtkrpnv.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "23",
+    "name": "Rawend",
+    "image": "https://cdn.streamelements.com/uploads/01m705rg87r3rmynaymgg6bvws.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "24",
+    "name": "The Ultimate Aciz",
+    "image": "https://cdn.streamelements.com/uploads/01m705srsxdhb5t95ha6n8fn8j.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "25",
+    "name": "Uref",
+    "image": "https://cdn.streamelements.com/uploads/01m72rgcwnzjyzj3n8hw7h0hmh.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "26",
+    "name": "Valshekyrie",
+    "image": "https://cdn.streamelements.com/uploads/01m74nj8kj768t53kq7fpbv7ws.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "27",
+    "name": "Devinasti",
+    "image": "https://cdn.streamelements.com/uploads/01m72rk4tkk51yhkvad82bj3rt.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "28",
+    "name": "Darkounet",
+    "image": "https://cdn.streamelements.com/uploads/01m72rm2e77x8hjzb4hpme8zh7.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "29",
+    "name": "Laoïda",
+    "image": "https://cdn.streamelements.com/uploads/01m72rwptw5j2jfpk2mapk5nhe.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "30",
+    "name": "Ulquiorrat",
+    "image": "https://cdn.streamelements.com/uploads/01m72ryth2enas5d3dz39nyr96.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "31",
+    "name": "Asko",
+    "image": "https://cdn.streamelements.com/uploads/01m72s12nbv7y8d2e0vwmj0d3m.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "32",
+    "name": "La Epiquetaine 31",
+    "image": "https://cdn.streamelements.com/uploads/01m72wa9267w9aeb3b7mvtwcyf.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "33",
+    "name": "Mikawete",
+    "image": "https://cdn.streamelements.com/uploads/01m75ffbpw9t3t52axrdp5cxr6.webp",
+    "rarity": "Épique",
+    "stars": 3
+  },
+  {
+    "id": "34",
+    "name": "Lumivar",
+    "image": "https://cdn.streamelements.com/uploads/01m75fgscm1vbtca42ycq2ashb.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "35",
+    "name": "Chuinnocent",
+    "image": "https://cdn.streamelements.com/uploads/01m76q11fqtnv0bah30xkm5p4p.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "36",
+    "name": "SeigneurXor",
+    "image": "https://cdn.streamelements.com/uploads/01m76q2dncjcvbq93j0txwpcbf.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "37",
+    "name": "Magikhaos",
+    "image": "https://cdn.streamelements.com/uploads/01m76q3c4s0bewqcfgyczmq06j.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "38",
+    "name": "Dienvost",
+    "image": "https://cdn.streamelements.com/uploads/01m76r26ajybrmydnhtaqnvz3z.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "39",
+    "name": "Les Worgens",
+    "image": "https://cdn.streamelements.com/uploads/01m76s79z5ddy3sm1dz0pwcbb1.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "40",
+    "name": "Les Ravens",
+    "image": "https://cdn.streamelements.com/uploads/01m77gjk6cdvh5e3ey3s8x80sj.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "41",
+    "name": "Les Taurens",
+    "image": "https://cdn.streamelements.com/uploads/01m77gketqw7jzt7htt3ycmq8s.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "42",
+    "name": "Le Symon Givré",
+    "image": "https://cdn.streamelements.com/uploads/01m77h5n7qf8ea66gwr3sgrrpb.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "43",
+    "name": "Le Symon FA",
+    "image": "https://cdn.streamelements.com/uploads/01m78g10q4r0bbms0e3n28t2p7.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "44",
+    "name": "Légendaires",
+    "image": "https://cdn.streamelements.com/uploads/01m78g1wj71gxqgf3fvf0rs12w.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "45",
+    "name": "Le Symon Mélodieux",
+    "image": "https://cdn.streamelements.com/uploads/01m7aemhm46ae198sbj0xvmyd9.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "46",
+    "name": "Les Modérateurs",
+    "image": "https://cdn.streamelements.com/uploads/01m7aenzyyy4hzv0ba19hz4x2p.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "47",
+    "name": "Kolush",
+    "image": "https://cdn.streamelements.com/uploads/01m7crfn66vmxfd3hht8cm80ma.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "48",
+    "name": "Le Symon Aux Yeux Bleus",
+    "image": "https://cdn.streamelements.com/uploads/01m7csb1wmee4hkjpjessb9fhe.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "49",
+    "name": "Absinte Aux Yeux Rouges",
+    "image": "https://cdn.streamelements.com/uploads/01m7d562wcm2rj3pp1z5j71hhx.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "50",
+    "name": "Pikendil Aux Yeux Verts",
+    "image": "https://cdn.streamelements.com/uploads/01m7hjz42nm85g9p52yc3gqatk.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "51",
+    "name": "Demeos",
+    "image": "https://cdn.streamelements.com/uploads/01m7hk00rq4tsjgqp6453yhtg2.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "52",
+    "name": "Zeusbreton",
+    "image": "https://cdn.streamelements.com/uploads/01m7kbpaerh562qnk9fnv48a72.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "53",
+    "name": "WelSheft",
+    "image": "https://cdn.streamelements.com/uploads/01m7kbqecvqqvgetmvjrtkck60.webp",
+    "rarity": "Commune",
+    "stars": 1
+  },
+  {
+    "id": "54",
+    "name": "NScontrol",
+    "image": "https://cdn.streamelements.com/uploads/01m7kbr7kc6bcbvcq4h2g376n3.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "55",
+    "name": "Napdeath",
+    "image": "https://cdn.streamelements.com/uploads/01m7kbsewfhcpg9zhynmwyrptv.webp",
+    "rarity": "Rare",
+    "stars": 2
+  },
+  {
+    "id": "56",
+    "name": "L'Ultime Panda Aux Yeux Roux",
+    "image": "https://cdn.streamelements.com/uploads/01m7kbt543b5v8q687vkz6tzqd.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "57",
+    "name": "L'Ultime Cheminot Marxiste",
+    "image": "https://cdn.streamelements.com/uploads/01m7kbvf99cphvecy5b4tsybqz.webp",
+    "rarity": "Full Art",
+    "stars": 5
+  },
+  {
+    "id": "58",
+    "name": "Sõnata",
+    "image": "https://cdn.streamelements.com/uploads/01m819ys2f42n45b5vqagtc503.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "59",
+    "name": "Tiiflonx",
+    "image": "https://cdn.streamelements.com/uploads/01m82mgbg639ydvyy9s06gq4hx.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "60",
+    "name": "DylvainSurif",
+    "image": "https://cdn.streamelements.com/uploads/01m82mh54a9servnr8n88cse7r.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "61",
+    "name": "FullNRV",
+    "image": "https://cdn.streamelements.com/uploads/01m841t91hj9vwhzgnek1cxdr4.webp",
+    "rarity": "Légendaire classique",
+    "stars": 4
+  },
+  {
+    "id": "62",
+    "name": "Romeyy",
+    "image": "https://cdn.streamelements.com/uploads/01m842r440zyj4jcqdvc496y7a.webp",
+    "rarity": "Légendaire signature",
+    "stars": 5
+  },
+  {
+    "id": "auberge",
+    "name": "L’Auberge",
+    "image": "https://cdn.streamelements.com/uploads/01m7q4rtvw1naf433efc8gwrc7.webp",
+    "rarity": "Absinte",
+    "stars": 0
+  },
+  {
+    "id": "absinte2",
+    "name": "Grand Theft Auberge",
+    "image": "https://cdn.streamelements.com/uploads/01m7wnzqrs2nsnntnhnxr941d2.webp",
+    "rarity": "Absinte",
+    "stars": 0
+  },
+  {
+    "id": "absinte3",
+    "name": "Infini Rawend",
+    "image": "https://cdn.streamelements.com/uploads/01m7wp01me8w6x89y70xcehp7q.webp",
+    "rarity": "Absinte",
+    "stars": 0
+  },
+  {
+    "id": "absinte4",
+    "name": "Bromance",
+    "image": "https://cdn.streamelements.com/uploads/01m82qrp9sfa9fcnxad96am41x.webp",
+    "rarity": "Absinte",
+    "stars": 0
+  }
+]
