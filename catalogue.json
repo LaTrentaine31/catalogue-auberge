@@ -680,6 +680,14 @@
     "image": "https://cdn.streamelements.com/uploads/01m8bxq05j1c0239en7gmvyex2.webp"
   },
   {
+    "id": "86",
+    "name": "Le Trou Noir",
+    "image": "https://cdn.streamelements.com/uploads/01m8c7qdnqnba2j5krmb1sknww.webp",
+    "rarity": "Anomalie",
+    "stars": 5,
+    "category": "anomalie"
+  },
+  {
     "id": "auberge",
     "name": "L’Auberge",
     "image": "https://cdn.streamelements.com/uploads/01m7q4rtvw1naf433efc8gwrc7.webp",
