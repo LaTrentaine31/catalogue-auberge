@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:33:35.430Z",
+  "updated": "2026-11-26T04:43:40.054Z",
   "players": {
     "absinnte": {
       "1": 9,
@@ -104,6 +104,7 @@
       "60": 2,
       "61": 1,
       "62": 1,
+      "75": 1,
       "absinte2": 1
     },
     "asko_hs": {
@@ -258,8 +259,8 @@
     "latrentaine31": {
       "1": 45,
       "2": 36,
-      "3": 38,
-      "4": 26,
+      "3": 39,
+      "4": 28,
       "5": 9,
       "6": 24,
       "7": 10,
@@ -278,7 +279,7 @@
       "20": 1,
       "21": 2,
       "22": 39,
-      "23": 13,
+      "23": 14,
       "24": 1,
       "25": 22,
       "26": 21,
@@ -286,7 +287,7 @@
       "28": 9,
       "29": 2,
       "30": 2,
-      "31": 12,
+      "31": 13,
       "32": 12,
       "33": 10,
       "34": 4,
@@ -314,9 +315,11 @@
       "56": 1,
       "57": 1,
       "59": 1,
-      "60": 1,
+      "60": 2,
       "61": 2,
       "62": 2,
+      "71": 1,
+      "75": 1,
       "absinte2": 1,
       "auberge": 1,
       "absinte3": 1
@@ -569,6 +572,7 @@
       "60": 1,
       "61": 1,
       "62": 1,
+      "75": 1,
       "absinte2": 1,
       "auberge": 1,
       "absinte3": 1
@@ -630,6 +634,7 @@
       "54": 1,
       "55": 6,
       "61": 1,
+      "75": 1,
       "auberge": 1,
       "absinte2": 1
     },
@@ -795,5 +800,69 @@
       "32": 1,
       "44": 2
     }
-  }
+  },
+  "progress": {
+    "absinnte": {},
+    "achille15m": {},
+    "arlequinhs": {},
+    "asko_hs": {},
+    "clamshs": {},
+    "demeos69": {},
+    "devinastihs": {},
+    "dienvost_hs": {},
+    "hn_darkounet": {},
+    "ic_spellitos": {},
+    "jordybala": {},
+    "justestyx": {},
+    "kazehs": {},
+    "latrentaine31": {},
+    "le_symon": {},
+    "lumivarr": {},
+    "matpis54": {},
+    "menzow_": {},
+    "mikawete": {},
+    "minatobelka": {},
+    "mon_vier": {},
+    "mrmorse0": {},
+    "nscontroll": {},
+    "nymeriah2595": {},
+    "pheno08": {},
+    "pikendil": {},
+    "prof__h": {},
+    "rawend2278": {},
+    "redpanda_4248": {},
+    "robocope_hs": {},
+    "seigneurxor": {},
+    "sonata_glhf": {},
+    "theaciz": {},
+    "tiiflonx": {},
+    "tormod0304": {},
+    "trostyman": {},
+    "ulquiorrattvfr": {},
+    "valshekyrie": {},
+    "welshefft13": {},
+    "wlitw77": {},
+    "yova_hs": {},
+    "yovanox": {},
+    "zeusbreton9": {}
+  },
+  "progressAvailable": true,
+  "bosses": [
+    {
+      "name": "Symon le Maléfique",
+      "image": "https://cdn.streamelements.com/uploads/01m7m78q69sszvprfem75114bd.webp"
+    },
+    {
+      "name": "Le Roi Café",
+      "image": "https://cdn.streamelements.com/uploads/01m7m794dhvwts8jak4cn32212.webp"
+    },
+    {
+      "name": "La Reine Bouillotte",
+      "image": "https://cdn.streamelements.com/uploads/01m7m7ap5dyercnz3af0z6vrnx.webp"
+    },
+    {
+      "name": "VOD Pistes Audios",
+      "image": "https://cdn.streamelements.com/uploads/01m82qts8s2nehtsvk4zft8v9f.webp"
+    }
+  ]
 }
