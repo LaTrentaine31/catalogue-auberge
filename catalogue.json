@@ -648,6 +648,38 @@
     "category": "cosmique"
   },
   {
+    "id": "82",
+    "name": "Sirius",
+    "rarity": "Stellaire",
+    "category": "stellaire",
+    "stars": 5,
+    "image": "https://cdn.streamelements.com/uploads/01m8bxkqea8682be9n2dpjwh5z.webp"
+  },
+  {
+    "id": "83",
+    "name": "Proxima Centauri",
+    "rarity": "Stellaire",
+    "category": "stellaire",
+    "stars": 5,
+    "image": "https://cdn.streamelements.com/uploads/01m8bxn0hnn3j5f68qkeamqh8y.webp"
+  },
+  {
+    "id": "84",
+    "name": "La Voie Lactée",
+    "rarity": "Galactique",
+    "category": "galactique",
+    "stars": 5,
+    "image": "https://cdn.streamelements.com/uploads/01m8bxnvs507jn7t54s23pxk8v.webp"
+  },
+  {
+    "id": "85",
+    "name": "Le Symon Absolu",
+    "rarity": "Absolue",
+    "category": "absolue",
+    "stars": 5,
+    "image": "https://cdn.streamelements.com/uploads/01m8bxq05j1c0239en7gmvyex2.webp"
+  },
+  {
     "id": "auberge",
     "name": "L’Auberge",
     "image": "https://cdn.streamelements.com/uploads/01m7q4rtvw1naf433efc8gwrc7.webp",
@@ -672,7 +704,7 @@
     "category": "absinte"
   },
   {
-    "id": "absinte4",
+    "id": "bromance",
     "name": "Bromance",
     "image": "https://cdn.streamelements.com/uploads/01m82qrp9sfa9fcnxad96am41x.webp",
     "rarity": "Absinte",
